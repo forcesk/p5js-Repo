@@ -15,7 +15,7 @@ var black = 20;
 
 function setup()
 {
-	createCanvas(600, 400);
+	createCanvas(windowWidth, windowHeight);
 	background(black);
 }
 
